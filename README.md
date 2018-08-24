@@ -1,3 +1,3 @@
-#compress 
-##how to use
+# compress 
+## how to use
  ./compress -img ./*.jpg -out ./*.jpg
